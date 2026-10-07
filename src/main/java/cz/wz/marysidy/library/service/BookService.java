@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class BookService {
 
-    public Book getBookById(Long id) {
-        return new Book(id, "Pushkin", "Title");
-    }
+//    public Book getBookById(Long id) {
+//        return new Book(id, "Pushkin", "Title");
+//    }
 }
